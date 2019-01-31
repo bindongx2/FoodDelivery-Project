@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- Root Context: defines shared resources visible to all other web components -->
+		
+	
+		<!-- DB-connection -->
+	<!-- 데이터 베이스 이름 : foodDelivery -->
+	<!-- 사용자 이름 : fddb -->
+	<!-- 비밀번호 : fddb -->
+<!-- 	<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource"> -->
+<!-- 		<property name="driverClassName" value="com.mysql.jdbc.Driver"></property> -->
+<!-- 		<property name="url" value="jdbc:mysql://localhost:3306/foodDelivery?useSSL_false&amp;useUnicode=true&amp;characterEncoding=utf8"></property> -->
+<!-- 		<property name="username" value="fddb"></property> -->
+<!-- 		<property name="password" value="fddb"></property> -->
+
+<!-- 	</bean> -->
+		
+</beans>
