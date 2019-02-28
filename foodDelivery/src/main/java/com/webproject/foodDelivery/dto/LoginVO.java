@@ -3,7 +3,7 @@ package com.webproject.foodDelivery.dto;
 import java.util.Date;
 
 public class LoginVO {
-	private int id;
+	private int id;   /* 아이디 */
 	private String name; /* 이름 */
 	private String email; /* 이메일 */
 	private String password; /* 비밀번호 */
@@ -69,6 +69,5 @@ public class LoginVO {
 		this.lastDate = lastDate;
 	}
 	
-	
-	
+		
 }

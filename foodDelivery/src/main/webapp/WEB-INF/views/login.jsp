@@ -35,5 +35,12 @@
             </div>
         </div>
     </div>
+    
+    
+    <script type="text/javascript">
+    $(".text-info").click(function(){
+    	
+    })
+    </script>
 </body>
 
